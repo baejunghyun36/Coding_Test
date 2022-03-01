@@ -15,7 +15,5 @@ int main() {
 		}
 		cout << '\n';
 	} while (next_permutation(s.begin(), s.end()));
-
-	return 0; 
-	
+	return 0; 	
 }
