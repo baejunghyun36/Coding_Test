@@ -3,6 +3,7 @@
         "*.html": "html",
         "vector": "cpp",
         "xiosbase": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "queue": "cpp"
     }
 }
