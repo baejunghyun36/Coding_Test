@@ -27,6 +27,7 @@ void dfs(int alpa, int level, int index) {
 	}
 	return;
 }
+
 int main() {
 	//a,n,t,i,c
 	ios::sync_with_stdio(false);
