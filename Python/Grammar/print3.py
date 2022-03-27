@@ -10,5 +10,5 @@ print((3>0)| (3>5))#True
 print(5>4>3) #True
 print(5>4>7)#False
 
-print(2+3*4) # 14
+
 
