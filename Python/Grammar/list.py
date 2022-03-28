@@ -1,6 +1,5 @@
 #list 
 
-
 subway=["유재석", "조세호", "박명수"]
 print(subway)
 
@@ -14,6 +13,7 @@ print(subway)
 #정형돈씨를 유재석 / 조세호 사이에 태워봄 
 subway.insert(1, "정형돈")
 print(subway)
+
 
 #지하철에 잇는 사람을 한 명씩 뒤에서 꺼냄
 print(subway.pop())
