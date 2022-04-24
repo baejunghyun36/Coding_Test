@@ -29,4 +29,5 @@ vector<int> solution(int N, vector<int> stages) {
         answer.push_back(v[i].first); 
     }    
     return answer; 
+    //
 }
