@@ -50,7 +50,7 @@ int main(int argc, char** argv)
         cout << "#" << test_case << "\n";
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                cout << store[i][j] << " ";
+                //cout << store[i][j] << " ";
             }
             cout << "\n";
         }
