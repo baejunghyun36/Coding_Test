@@ -37,3 +37,11 @@ void dfs(int a, int b, int c, int start) {
 	
 
 }
+
+int main() {
+
+	cin >> A >> B >> C; 
+	dfs(0, 0, C, 3 ); 
+	for (auto x : s)cout << x << " "; 
+	return 0; 
+}
